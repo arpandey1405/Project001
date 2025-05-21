@@ -92,21 +92,5 @@ To set up the project locally, follow these steps:
     ```
     Navigate to the `notebooks/` directory and open the relevant notebooks.
 
-## Contributing
-
-We welcome contributions to this project! Please see our `CONTRIBUTING.md` (to be created) for guidelines on how to submit pull requests, report issues, and generally contribute.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or inquiries, please contact:
-
-* [Your Name/Team Name] - [Your Email Address]
-* [Link to your personal/team website/LinkedIn (optional)]
-
----
 
 **Disclaimer:** This project is a conceptual framework for predictive maintenance in a military context. Actual implementation would require access to sensitive data, collaboration with military experts, and adherence to strict security protocols and regulations.
